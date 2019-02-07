@@ -71,7 +71,7 @@ include_once('include_upper.html');
                     <button>Submit</button>
                 </form> -->
                 <p>
-                    Result will be announced on 10th February 2019
+                    Result will be announced on 12th February 2019
                 </p>
             </center>
 		</div> 
